@@ -5,7 +5,7 @@
 <html>
 	<body>
 	<?php
-		echo "Ca marche";
+		echo "Code php";
 	?>
 	</body>
 </html>
